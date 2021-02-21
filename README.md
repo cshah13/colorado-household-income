@@ -21,6 +21,14 @@ Microsoft Office Excel will be used to conduct simple and linear regressions to 
 1. How do employement rates impact household income in Colorado tracts?
 2. How do employement rates, median rent, and job density impact houshold income in Colorado tracts?
 
+## Simple Linear Regression Data Answer
+### How do employement rates impact household income in Colorado tracts?
 
+## Multiple Linear Regression Data Answer
+### How do employement rates, median rent, and job density impact houshold income in Colorado tracts?
+
+## Business Answer
+
+## Step by Step Instructions
 
 
