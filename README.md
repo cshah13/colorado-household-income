@@ -16,5 +16,11 @@ The following data sets were used for this analysis. All original data can be fo
 - Density of Jobs in 2013 (number of jobs per square mile in 2013)
 - Median Rent (median rent between 2012-2016)
 
+## Data Analysis Questions
+Microsoft Office Excel will be used to conduct simple and linear regressions to answer the following data questions:
+1. How do employement rates impact household income in Colorado tracts?
+2. How do employement rates, median rent, and job density impact houshold income in Colorado tracts?
+
+
 
 
