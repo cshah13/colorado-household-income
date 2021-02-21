@@ -23,6 +23,8 @@ Microsoft Office Excel will be used to conduct simple and linear regressions to 
 
 ## Simple Linear Regression Data Answer
 ### How do employement rates impact household income in Colorado tracts?
+The simple linear regression indicates the relationship between household income and employment rates to be __Household Income = -42826.304 + 111888.601(employement rate)__. This means that for every 1% increase in a tract employement rate, the houshold income increases by $1,118.89. The F significance and p-value of 2.0082E-37 is below 0.05, indicating a significant relationship between the two factors. However, the R Squared value indicates that only 35.7% of the data fits the regression model. The standard error of 8461.327  indicates that 95% of our data is within 16,922.654 and the rest can be considered outliers. The graph below shows the actual and predicted data. There were only 373 tracts in the data analysis, so an increase in this number could lead to more precise outcomes. The complete data analysis can be found [here](https://github.com/cshah13/colorado-household-income/blob/main/Data%20Analysis.xlsx)
+![alttext](https://github.com/cshah13/colorado-household-income/blob/main/Simple%20Linear%20Regression%20Graph.png)
 
 ## Multiple Linear Regression Data Answer
 ### How do employement rates, median rent, and job density impact houshold income in Colorado tracts?
