@@ -6,7 +6,7 @@ This analysis aims to use simple and multiple linear regressions to understand f
 Household income in the Denver Metro area has been increasing according to [The Denver Business Journal](https://www.bizjournals.com/denver/news/2020/12/24/denvers-average-income-keeps-growing.html). The biggest jump was between 2018-2019. Despite the pandemic, the household income is predicted to continue growing. However, an article in the [Denver Post](https://www.denverpost.com/2020/12/07/colorado-may-not-recover-jobs-lost-this-year-until-2023-c-u-forecasters-predict/) indicates that Colorado lost nearly 149,000 jobs in 2020. A different article in the [Denver Post](https://www.denverpost.com/2018/01/05/forget-middle-class-in-denver-it-takes-63000-a-year-for-a-family-to-just-subsist/) discusses the high cost of living in Colorado that is hindering people from paying for basic neccesities. It is clear that different areas in Colorado are facing different experiences. This project aims to understand different factors that contribute to the average household income in different tracts in Colorado.
 
 ## Business Question
-What factors contribute to different household incomes in tracts in Colorado?
+What factors contribute to different average household incomes in tracts in Colorado?
 
 ## Open Data
 This analysis uses open data from [The Opportunity Atlas](https://opportunityatlas.org) which provides social mobility data from 20 million anonymous individuals. 
